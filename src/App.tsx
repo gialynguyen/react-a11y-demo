@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <input id="promo" />
-      <label>Receive promotional offers?</label>
+      <label htmlFor="promo">Receive promotional offers?</label>
     </div>
   );
 }
