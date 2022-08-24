@@ -3,8 +3,8 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <label htmlFor="promo">Receive promotional offers? </label>
       <input id="promo" />
-      <label htmlFor="promo">Receive promotional offers?</label>
     </div>
   );
 }
